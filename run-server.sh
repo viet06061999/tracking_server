@@ -8,4 +8,4 @@ fi
 npm install
 
 # Chạy ứng dụng
-nohup  ./server_tracking-macos 2>&1 &
+nohup  ./server_tracking-linux 2>&1 &
